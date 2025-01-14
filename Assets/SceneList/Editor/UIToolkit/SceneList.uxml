@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/SceneManagementHelper/Editor/SceneList.uss?fileID=7433441132597879392&amp;guid=32b55a7fd09d4ef4ea5ea3398f8c45c3&amp;type=3#SceneList" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Label text="Scenes" />
+        <ui:ListView data-source="project://database/Assets/chattingPart/test/Test/soundDB/common.asset?fileID=11400000&amp;guid=2f003de43abb4394b8e2644c28de5380&amp;type=2#common" data-source-type="UnityEditor.Search.Evaluators+&lt;SceneName&gt;d__25, UnityEditor.QuickSearchModule" name="SceneListView" />
+    </ui:VisualElement>
+</ui:UXML>

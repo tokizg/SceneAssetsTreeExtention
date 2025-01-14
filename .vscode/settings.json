@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SceneManagementHelper.sln"
+    "dotnet.defaultSolution": "SceneAssetsTreeExtention.sln"
 }
